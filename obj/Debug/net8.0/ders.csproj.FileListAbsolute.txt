@@ -1,0 +1,14 @@
+/Users/keremsakarya/Desktop/ders/bin/Debug/net8.0/ders
+/Users/keremsakarya/Desktop/ders/bin/Debug/net8.0/ders.deps.json
+/Users/keremsakarya/Desktop/ders/bin/Debug/net8.0/ders.runtimeconfig.json
+/Users/keremsakarya/Desktop/ders/bin/Debug/net8.0/ders.dll
+/Users/keremsakarya/Desktop/ders/bin/Debug/net8.0/ders.pdb
+/Users/keremsakarya/Desktop/ders/obj/Debug/net8.0/ders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keremsakarya/Desktop/ders/obj/Debug/net8.0/ders.AssemblyInfoInputs.cache
+/Users/keremsakarya/Desktop/ders/obj/Debug/net8.0/ders.AssemblyInfo.cs
+/Users/keremsakarya/Desktop/ders/obj/Debug/net8.0/ders.csproj.CoreCompileInputs.cache
+/Users/keremsakarya/Desktop/ders/obj/Debug/net8.0/ders.dll
+/Users/keremsakarya/Desktop/ders/obj/Debug/net8.0/refint/ders.dll
+/Users/keremsakarya/Desktop/ders/obj/Debug/net8.0/ders.pdb
+/Users/keremsakarya/Desktop/ders/obj/Debug/net8.0/ders.genruntimeconfig.cache
+/Users/keremsakarya/Desktop/ders/obj/Debug/net8.0/ref/ders.dll
